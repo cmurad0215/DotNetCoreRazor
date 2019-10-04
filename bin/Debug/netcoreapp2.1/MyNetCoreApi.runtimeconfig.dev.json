@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CLOUDLYio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CLOUDLYio\\.nuget\\packages"
+    ]
+  }
+}
